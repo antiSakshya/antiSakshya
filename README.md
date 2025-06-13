@@ -1,29 +1,44 @@
-# Project Title
+# 👋 Hi, I'm Sakshya!
 
-## Description
+🎓 B.Tech CSE student | 💻 Cloud Computing Enthusiast | ☁️ Learning AWS, Java & Cybersecurity
 
-A brief description of what your project does and its purpose.
+---
 
-## Getting Started
+## 🚀 About Me
 
-Instructions on how to get the project up and running, including:
+I'm a passionate Computer Science student currently in my 3rd year, focusing on building real-world skills in:
 
-*   **Prerequisites:** (e.g., Python 3.x, Node.js)
-*   **Installation:** (e.g., `git clone [repository URL]` followed by `npm install`)
-*   **Usage:** (e.g., `python main.py`)
+- **Cloud Computing (AWS & Google Cloud)**
+- **Java Programming**
+- **Cybersecurity Basics**
+- **Problem Solving using DSA**
 
-## Example Usage
+---
 
-(Optional) Show how the project can be used with examples or screenshots.
+## 🔧 Current Learning Goals (June 2025)
 
-## Contributing
+- ✅ Google Cloud Cybersecurity Course  
+- ✅ CypherSchool Java Certification  
+- ✅ AWS Cloud Practitioner Prep  
+- ✅ GeeksforGeeks Java + DSA Practice  
 
-(Optional) Guidelines for how others can contribute to your project.
+---
 
-## License
+## 🛠️ Tech Stack
 
-(Optional) Information about the project's license (e.g., MIT, Apache 2.0).
+- **Languages**: Java, Python, C++  
+- **Cloud**: AWS, Google Cloud (Learning Phase)  
+- **Tools**: Git, GitHub, VS Code  
+- **Other**: HTML, CSS, Bash, Linux Basics  
 
-## Contact
+---
 
-(Optional) Contact information for questions or issues.
+## 📫 Let's Connect
+
+- 📧 Email: [yasnow@gmail.com](mailto:yasnow@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sakshya)  
+- 🌐 Portfolio: Coming Soon  
+
+---
+
+*Thanks for visiting my profile! I’m always open to learning and collaborating on meaningful projects.*
