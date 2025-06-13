@@ -35,7 +35,7 @@ I'm a passionate Computer Science student currently in my 3rd year, focusing on 
 
 ## 📫 Let's Connect
 
-- 📧 Email: [yasnow@gmail.com](mailto:yasnow@gmail.com)  
+- 📧 Email: [sakshyasnow@gmail.com](mailto:yasnow@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/sakshya)  
 - 🌐 Portfolio: Coming Soon  
 
